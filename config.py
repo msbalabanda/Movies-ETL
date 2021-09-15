@@ -1,1 +1,1 @@
-db_password = 'Coldwar1964'
+db_password = 'Integral'
